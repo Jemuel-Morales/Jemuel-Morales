@@ -1,6 +1,7 @@
 # 💫 About Me:
 👨‍💻 Web and Software C# Developer<br>🤝 Helping students develop their capstone projects<br>👨‍🎓  Studied Computer Science at ICCT Colleges Foundation Inc., Philippines<br>💭 Currently learning about C# architectural design patterns and advanced features.<br><br>
 
+I am bald
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jemuelmorales71) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jemorales) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jemorales11) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Iamironma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JemuelJm) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Jemuel-Morales) 
